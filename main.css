@@ -18,6 +18,8 @@
 }
 .site-section:hover {
     text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: #666;
 }
 .section-link {
     color: #666;
