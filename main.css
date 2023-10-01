@@ -19,7 +19,7 @@
 .site-section:hover {
     text-decoration: underline;
 }
-section-link {
+.section-link {
     color: #666;
     font: "Futura";
     font-weight: bold;
