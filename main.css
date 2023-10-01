@@ -7,10 +7,22 @@
 .nav-links {
     display: flex;
     justify-content: space-evenly;
+    border: 3px solid black;
+    align-items: center;
+    margin: 0;
+    padding: 30px;
+}   
+.site-section {
+    list-style-type: none;
+
 }
-.nav-links a {
-    text-decoration: none;
+.site-section:hover {
+    text-decoration: underline;
 }
-.nav-links li {
+section-link {
+    color: #666;
+    font: "Futura";
+    font-weight: bold;
+    font-size: 30px;
     text-decoration: none;
 }
