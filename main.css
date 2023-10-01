@@ -1,0 +1,16 @@
+.brand {
+    text-align: center;
+    font-family: "Snell Roundhand";
+    font-weight: normal;
+    font-size: 60px;
+}
+.nav-links {
+    display: flex;
+    
+}
+.nav-links a {
+    text-decoration: none;
+}
+.nav-links li {
+    text-decoration: none;
+}
